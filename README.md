@@ -1,5 +1,5 @@
 
-This source contains two files--> \n
+This source contains two files-->
 1- validate credit card 
 2- check password strenth
 
