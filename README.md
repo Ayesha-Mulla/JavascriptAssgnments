@@ -6,6 +6,7 @@ This source contains two files-->
 
 1- validate credit card:
 This will validate few well- know credit cards and display error message below text box and highlight border with red if card is invalid.
+
 some well know credit cards are-->
 1- Visa
 2- Master card
